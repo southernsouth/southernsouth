@@ -1,4 +1,5 @@
 # About me.
+<img src="https://komarev.com/ghpvc/?username=southernsouth&style=flat">
 Hello, I'm a beginner programmer that has already learned a lot of new things.
 
 ## Languages and Tools
